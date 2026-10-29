@@ -24,6 +24,7 @@ Founders are leaving **$500K+ on the table** by not stacking these programs. Thi
 - [Accelerators & Incubators](#accelerators--incubators)
 - [Stacking Strategy](#stacking-strategy)
 - [Application Tips](#application-tips)
+- [Related Resources](#related-resources)
 - [Contributing](#contributing)
 
 ---
@@ -204,6 +205,12 @@ Smart founders **sequence** applications to maximize runway. A common path:
 - **Track expiration dates** — most credits expire in 12–24 months. Keep a spreadsheet of approvals, amounts, and renewal terms.
 - **Don't build critical dependencies on expiring credits** — use them for dev, testing, and experimentation.
 - **Beware stacking caveats** — e.g., claiming AWS via Brex/Mercury may reduce your direct AWS Activate amount.
+
+---
+
+## Related Resources
+
+- [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
 
 ---
 
