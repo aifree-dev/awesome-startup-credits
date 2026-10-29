@@ -90,6 +90,7 @@ If you're building AI products, these credits go directly toward inference, trai
 
 | Program | Offer | Eligibility | Notes |
 |---------|-------|-------------|-------|
+| **[Estuary for Startups](https://estuary.dev/startup/)** | Up to $2,000 credits over 1 year | <$5M in funding | Real-time/batch data movement platform. |
 | **[MongoDB for Startups](https://www.mongodb.com/startups)** | Atlas credits + Voyage AI tokens + GTM support | Via VC/accelerator or direct | Document DB. |
 | **[Redis for Startups](https://redis.io/)** | Up to $25K Redis Cloud + AI consult | Startup program | Caching / vector. |
 | **[Neo4j Aura](https://neo4j.com/)** | Aura credits + expert guidance | Startup program | Graph database for AI. |
